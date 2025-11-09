@@ -23,3 +23,4 @@
 - [dash-react-scan-plugin](https://github.com/CNFeffery/dash-react-scan-plugin)
 - [dash-disable-devtool-plugin](https://github.com/CNFeffery/dash-disable-devtool-plugin)
 - [dash-offline-detect-plugin](https://github.com/CNFeffery/dash-offline-detect-plugin)
+- [dash-tailwindcss-plugin](https://github.com/HogaStack/dash-tailwindcss-plugin)
