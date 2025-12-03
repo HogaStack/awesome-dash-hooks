@@ -24,3 +24,4 @@
 - [dash-disable-devtool-plugin](https://github.com/CNFeffery/dash-disable-devtool-plugin)
 - [dash-offline-detect-plugin](https://github.com/CNFeffery/dash-offline-detect-plugin)
 - [dash-tailwindcss-plugin](https://github.com/HogaStack/dash-tailwindcss-plugin)
+- [dash-vite-plugin](https://github.com/HogaStack/dash-vite-plugin)
